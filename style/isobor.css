@@ -28,7 +28,7 @@ h1 {
   height: 186px;
   margin-bottom: 50px;
   padding-top: 30px;
-  background: #847462 no-repeat center url("https://cdn.viqeo.tv/storage/b0/3b/89a568f4d3fbdc55f4811e4fa9718d1e.webp");
+  background: #847462 no-repeat center url("https://s11.stc.all.kpcdn.net/russia/wp-content/uploads/2022/08/tamara-malaniy-n-BM_YXVOY4-unsplash.jpg");
   background-size: cover;
   color: #ffffff;
 }
@@ -50,34 +50,21 @@ h1 {
 .features {
   width: 510px;
   margin: 0 auto 30px;
-  padding-bottom: 240px;
 }
 
-.features p {
+
+.advantages p {
   display: inline-block;
-  vertical-align: top;
-  width: 30%;
-  margin: 5px 5px;
+  width: 530px;
+  margin: 50px 500px;
+  padding-bottom: 290px;
   background-repeat: no-repeat;
-  background-position: center top;
+  background-position: center middle;
   text-transform: uppercase;
 }
 
-.features a {
-  padding: 2px;
-  text-decoration: none;
-}
-
-.features a:hover {
-  background: #4682B4; 
-  color: #FFFFFF;
-   }
-
-
-
 .site-footer {
-  min-width: 500px;
-  height: 50px;
+  min-width: 550px;
   background-color: #847462;
   color: #ffffff;
 }
